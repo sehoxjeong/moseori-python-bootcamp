@@ -23,7 +23,7 @@ Open to all **Moseori** members interested in conducting empirical economic rese
 
 ### Location and Time
 
-- **Room**: 311, Geppert-Nam Duckwoo Economics Hall, Sogang University, Republic of Korea  
+- **Room**: 311, Geppert-Nam Duckwoo Hall, Sogang University, Republic of Korea  
 - **Time**: 14:00–17:00, July 28–August 1
 
 ### Software Requirements
