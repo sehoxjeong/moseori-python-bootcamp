@@ -3,7 +3,7 @@
 > [!WARNING]  
 > Work in progress!
 
-This unofficial mini-course is designed for undergraduate students planning to pursue a Ph.D. in economics or finance. It introduces how quantitative research is conducted in both empirical and theoretical economics. While the focus is on empirical methods, many of the concepts will also benefit those interested in theory.
+This mini-course is designed for undergraduate students planning to pursue a Ph.D. in economics or finance. It introduces how quantitative research is conducted in both empirical and theoretical economics. While the focus is on empirical methods, many of the concepts will also benefit those interested in theory.
 
 The course runs for five consecutive days, from **July 28 to August 1, 2025**. Although it is not formally restricted, the course is intended exclusively for **Moseori members**.
 
